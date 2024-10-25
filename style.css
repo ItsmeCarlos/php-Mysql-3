@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+h1 {
+    color: #343a40;
+}
+
+.table-container {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn {
+    margin: 0 5px;
+}
+
+.form-control, .btn-primary {
+    max-width: 400px;
+    margin: 10px auto;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #6c757d;
+}
